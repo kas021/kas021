@@ -41,7 +41,7 @@ I've pushed about 445 commits in the last year, give or take. Not all winners, b
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -65,6 +65,17 @@ Yeah, I made one of these. Trading bot written in Python that attempts to automa
 ### [CMS Repository](https://github.com/kas021/CMS-REPO)
 
 Content management system built with TypeScript. Started this because most CMS platforms feel bloated or overcomplicated for what I needed. Wanted something clean and modular that I could customize without fighting against the framework. Still adding features, but it handles the basics well. Create, edit, publish, repeat.
+
+---
+
+<div align="center">
+
+[![Employee-NFC-Logging-Time-Sheet](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight)](https://github.com/kas021/Employee-NFC-Logging-Time-Sheet)
+[![money-game](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight)](https://github.com/kas021/money-game)
+[![Crypto-bot](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight)](https://github.com/kas021/Crypto-bot)
+[![CMS-REPO](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight)](https://github.com/kas021/CMS-REPO)
+
+</div>
 
 ---
 
