@@ -1,19 +1,21 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1500&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;TypeScript+%26+Python+Specialist;Building+Modern+Web+Applications" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm a passionate software developer with expertise in building modern web applications and solving complex problems through code. I thrive on learning new technologies and contributing to open-source projects that make a difference.
+Hey there! I'm **Khubaib Shaikh** (kas021), a passionate full-stack developer specializing in TypeScript and Python. I focus on building scalable web applications and automation systems.
 
-- 🔭 Currently working on scalable web applications and cloud-native solutions
-- 🌱 Exploring advanced concepts in distributed systems and microservices architecture
-- 👯 Open to collaborating on innovative open-source projects
-- 💬 Ask me about web development, system design, and software engineering best practices
-- 📫 Reach me at: **your.email@example.com**
-- ⚡ Fun fact: I enjoy solving algorithmic challenges and contributing to tech communities
+- 🔭 Currently working on multiple TypeScript projects including CMS systems, web apps, and management suites
+- 🌱 Exploring advanced TypeScript patterns, React/Next.js, and Python automation
+- 🛠️ Built an NFC-based employee attendance system with Raspberry Pi
+- 💼 Active contributor with 445+ contributions in the past year
+- 👯 Open to collaborating on TypeScript/Python projects
+- 💬 Ask me about web development, TypeScript, Python automation, and IoT projects
+- 📫 Reach me at: **[Your email here]**
+- ⚡ Fun fact: I enjoy building practical solutions like crypto bots and management systems
 
 ---
 
@@ -22,60 +24,86 @@ Hello! I'm a passionate software developer with expertise in building modern web
 <div align="center">
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Tools & Platforms
 
-### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<a href="https://github.com/kas021">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kas021&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas021&layout=compact&langs_count=8&theme=radical"/>
-</a>
+### [Employee NFC Logging System](https://github.com/kas021/Employee-NFC-Logging-Time-Sheet)
+🐍 **Python** | NFC-based employee attendance system using Raspberry Pi. Logs check-in/out times to Google Sheets with audio alerts.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=radical)
+### [Money Game](https://github.com/kas021/money-game)
+📘 **TypeScript** | Interactive money management game
 
-## 🏆 GitHub Trophies
+### [Crypto Bot](https://github.com/kas021/Crypto-bot)
+🐍 **Python** | Cryptocurrency trading automation bot
 
-![](https://github-profile-trophy.vercel.app/?username=kas021&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kas021&theme=react-dark)](https://github.com/kas021)
+### [CMS Repository](https://github.com/kas021/CMS-REPO)
+📘 **TypeScript** | Content Management System repository
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=kas021&style=flat-square&color=blue)
+## 📊 GitHub Statistics
 
-### 👇 Check out my pinned repositories below! 👇
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kas021&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kas021&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kas021&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kas021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <h3>👇 Check out my pinned repositories below! 👇</h3>
+</div>
