@@ -72,6 +72,7 @@ Content management system built with TypeScript. Started this because most CMS p
   <a href="https://github.com/kas021/Employee-NFC-Logging-Time-Sheet"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight" alt="Employee-NFC-Logging-Time-Sheet"/></a>
   <a href="https://github.com/kas021/money-game"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight" alt="money-game"/></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/kas021/Crypto-bot"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight" alt="Crypto-bot"/></a>
   <a href="https://github.com/kas021/CMS-REPO"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight" alt="CMS-REPO"/></a>
@@ -88,6 +89,27 @@ Content management system built with TypeScript. Started this because most CMS p
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/kas021/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
+
+---
+
+## 🌆 GitHub Skyline
+
+> **Explore my 3D GitHub contribution skyline!**  
+> Visit [skyline.github.com](https://skyline.github.com/kas021) to see an interactive 3D visualization of my yearly contributions.
+
+<p align="center">
+  <a href="https://skyline.github.com/kas021">
+    <img src="https://img.shields.io/badge/View_My-GitHub_Skyline-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+  </a>
 </p>
 
 ---
