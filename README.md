@@ -6,13 +6,13 @@
 
 ## About Me
 
-Hey! I'm Khubaib Shaikh (kas021). Most of my time goes into building web apps with TypeScript and Python. Started with smaller projects but quickly got hooked on full-stack development. There's something satisfying about seeing both the frontend and backend come together, especially when it actually works on the first try (which, let's be honest, rarely happens).
+Hey! I'm Khubaib Shaikh (kas021). Most of my time goes into building web apps with TypeScript and Python. Started with smaller projects but quickly got hooked on full-stack development. There's something satisfying about seeing both the frontend and backend come together, especially when everything clicks into place.
 
-Right now I'm juggling a few TypeScript projects. Got a CMS system in the works, plus some management tools that I'm tinkering with. React and Next.js have been my go-to lately, though I keep finding myself diving deeper into Python automation whenever I get the chance. Built this NFC attendance system using a Raspberry Pi last year. That was a fun rabbit hole to go down. Cards, readers, audio alerts, the whole nine yards.
+Right now I'm juggling a few TypeScript projects. Got a CMS system in the works, plus some management tools that I'm tinkering with. React and Next.js have been my go-to lately, though I keep finding myself diving deeper into Python automation whenever I get the chance. Built this NFC attendance system using a Raspberry Pi last year. Cards, readers, audio alerts, the whole system.
 
-I've pushed about 445 commits in the last year, give or take. Not all winners, but you learn more from the code that breaks anyway. Always down to collaborate if you're working on something interesting with TypeScript or Python. Hit me up if you want to talk about web dev, automation, or IoT stuff. Also made a crypto bot once. Jury's still out on whether that was genius or madness.
+I've pushed about 445 commits in the last year, give or take. Always down to collaborate if you're working on something interesting with TypeScript or Python. Hit me up if you want to talk about web dev, automation, or IoT stuff. Also made a crypto bot once.
 
-**Want to know more about me or my projects? Visit my personal website at [khubaib.me](https://khubaib.me) — it's self-hosted on my Raspberry Pi for extra nerd cred.**
+**Want to know more about my work or projects? Visit my personal website: [khubaib.me](https://khubaib.me) (self-hosted on a Raspberry Pi).**
 
 ---
 
@@ -43,7 +43,7 @@ I've pushed about 445 commits in the last year, give or take. Not all winners, b
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -54,33 +54,27 @@ I've pushed about 445 commits in the last year, give or take. Not all winners, b
 
 ### [Employee NFC Logging System](https://github.com/kas021/Employee-NFC-Logging-Time-Sheet)
 
-This one was born out of pure necessity. Needed a way to track employee check-ins without the usual hassle of manual logs or buggy software. Grabbed a Raspberry Pi, some NFC readers, and built a system that logs everything straight to Google Sheets. Added audio alerts too because why not. Makes it feel more official. Python made the whole thing surprisingly straightforward once I figured out the NFC library quirks.
+This one was born out of pure necessity. Needed a way to track employee check-ins without the usual hassle of manual logs or buggy software. Grabbed a Raspberry Pi, some NFC readers, and built a system that logs everything straight to Google Sheets. Added audio alerts for confirmation. Python made the whole thing surprisingly straightforward once I figured out the NFC library quirks.
 
 ### [Money Game](https://github.com/kas021/money-game)
 
-Built this as a way to make financial concepts less boring. It's an interactive game written in TypeScript where you manage money and make decisions. Nothing groundbreaking, but people seem to find it useful for understanding budgeting without falling asleep. Plus, it was a good excuse to experiment with game logic in a web environment.
+Built this as a way to make financial concepts less boring. It's an interactive game written in TypeScript where you manage money and make decisions. Nothing groundbreaking, but people seem to find it useful for understanding budgeting. Plus, it was a good excuse to experiment with game logic in a web environment.
 
 ### [Crypto Bot](https://github.com/kas021/Crypto-bot)
 
-Yeah, I made one of these. Trading bot written in Python that attempts to automate crypto trades. Does it make millions? No. Does it work? Sometimes. Honestly built it more to learn about APIs and trading algorithms than to get rich quick. The market's too unpredictable anyway, but the code itself taught me a lot about async operations and data handling.
+Trading bot written in Python that attempts to automate crypto trades. Built it to learn about APIs and trading algorithms. The market's unpredictable, but the code itself taught me a lot about async operations and data handling.
 
 ### [CMS Repository](https://github.com/kas021/CMS-REPO)
 
 Content management system built with TypeScript. Started this because most CMS platforms feel bloated or overcomplicated for what I needed. Wanted something clean and modular that I could customize without fighting against the framework. Still adding features, but it handles the basics well. Create, edit, publish, repeat.
 
 <p align="center">
-  <a href="https://github.com/kas021/Employee-NFC-Logging-Time-Sheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight" alt="Employee-NFC-Logging-Time-Sheet" />
-  </a>
-  <a href="https://github.com/kas021/money-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight" alt="money-game" />
-  </a>
-  <a href="https://github.com/kas021/Crypto-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight" alt="Crypto-bot" />
-  </a>
-  <a href="https://github.com/kas021/CMS-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight" alt="CMS-REPO" />
-  </a>
+  <a href="https://github.com/kas021/Employee-NFC-Logging-Time-Sheet"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight" alt="Employee-NFC-Logging-Time-Sheet"/></a>
+  <a href="https://github.com/kas021/money-game"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight" alt="money-game"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/kas021/Crypto-bot"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight" alt="Crypto-bot"/></a>
+  <a href="https://github.com/kas021/CMS-REPO"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight" alt="CMS-REPO"/></a>
 </p>
 
 ---
@@ -88,12 +82,12 @@ Content management system built with TypeScript. Started this because most CMS p
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kas021&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas021&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kas021&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -101,7 +95,7 @@ Content management system built with TypeScript. Started this because most CMS p
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kas021&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kas021&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -109,13 +103,13 @@ Content management system built with TypeScript. Started this because most CMS p
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kas021&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kas021&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kas021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kas021&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ### Check out my pinned repositories below!
