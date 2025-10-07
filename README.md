@@ -6,11 +6,11 @@
 
 ## About Me
 
-Hey! I'm Khubaib Shaikh (kas021). Most of my time goes into building web apps with TypeScript and Python. Started with smaller projects but quickly got hooked on full-stack development. There's something satisfying about seeing both the frontend and backend come together - especially when it actually works on the first try (which, let's be honest, rarely happens).
+Hey! I'm Khubaib Shaikh (kas021). Most of my time goes into building web apps with TypeScript and Python. Started with smaller projects but quickly got hooked on full-stack development. There's something satisfying about seeing both the frontend and backend come together, especially when it actually works on the first try (which, let's be honest, rarely happens).
 
-Right now I'm juggling a few TypeScript projects. Got a CMS system in the works, plus some management tools that I'm tinkering with. React and Next.js have been my go-to lately, though I keep finding myself diving deeper into Python automation whenever I get the chance. Built this NFC attendance system using a Raspberry Pi last year - that was a fun rabbit hole to go down. Cards, readers, audio alerts, the whole nine yards.
+Right now I'm juggling a few TypeScript projects. Got a CMS system in the works, plus some management tools that I'm tinkering with. React and Next.js have been my go-to lately, though I keep finding myself diving deeper into Python automation whenever I get the chance. Built this NFC attendance system using a Raspberry Pi last year. That was a fun rabbit hole to go down. Cards, readers, audio alerts, the whole nine yards.
 
-I've pushed about 445 commits in the last year, give or take. Not all winners, but you learn more from the code that breaks anyway. Always down to collaborate if you're working on something interesting with TypeScript or Python. Hit me up if you want to talk about web dev, automation, or IoT stuff. Also made a crypto bot once - jury's still out on whether that was genius or madness.
+I've pushed about 445 commits in the last year, give or take. Not all winners, but you learn more from the code that breaks anyway. Always down to collaborate if you're working on something interesting with TypeScript or Python. Hit me up if you want to talk about web dev, automation, or IoT stuff. Also made a crypto bot once. Jury's still out on whether that was genius or madness.
 
 ---
 
@@ -52,7 +52,7 @@ I've pushed about 445 commits in the last year, give or take. Not all winners, b
 
 ### [Employee NFC Logging System](https://github.com/kas021/Employee-NFC-Logging-Time-Sheet)
 
-This one was born out of pure necessity. Needed a way to track employee check-ins without the usual hassle of manual logs or buggy software. Grabbed a Raspberry Pi, some NFC readers, and built a system that logs everything straight to Google Sheets. Added audio alerts too because why not - makes it feel more official. Python made the whole thing surprisingly straightforward once I figured out the NFC library quirks.
+This one was born out of pure necessity. Needed a way to track employee check-ins without the usual hassle of manual logs or buggy software. Grabbed a Raspberry Pi, some NFC readers, and built a system that logs everything straight to Google Sheets. Added audio alerts too because why not. Makes it feel more official. Python made the whole thing surprisingly straightforward once I figured out the NFC library quirks.
 
 ### [Money Game](https://github.com/kas021/money-game)
 
@@ -64,7 +64,7 @@ Yeah, I made one of these. Trading bot written in Python that attempts to automa
 
 ### [CMS Repository](https://github.com/kas021/CMS-REPO)
 
-Content management system built with TypeScript. Started this because most CMS platforms feel bloated or overcomplicated for what I needed. Wanted something clean and modular that I could customize without fighting against the framework. Still adding features, but it handles the basics well - create, edit, publish, repeat.
+Content management system built with TypeScript. Started this because most CMS platforms feel bloated or overcomplicated for what I needed. Wanted something clean and modular that I could customize without fighting against the framework. Still adding features, but it handles the basics well. Create, edit, publish, repeat.
 
 ---
 
