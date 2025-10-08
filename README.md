@@ -52,30 +52,22 @@ I've pushed about 445 commits in the last year, give or take. Always down to col
 
 ## Featured Projects
 
-### [Employee NFC Logging System](https://github.com/kas021/Employee-NFC-Logging-Time-Sheet)
-
-This one was born out of pure necessity. Needed a way to track employee check-ins without the usual hassle of manual logs or buggy software. Grabbed a Raspberry Pi, some NFC readers, and built a system that logs everything straight to Google Sheets. Added audio alerts for confirmation. Python made the whole thing surprisingly straightforward once I figured out the NFC library quirks.
-
-### [Money Game](https://github.com/kas021/money-game)
-
-Built this as a way to make financial concepts less boring. It's an interactive game written in TypeScript where you manage money and make decisions. Nothing groundbreaking, but people seem to find it useful for understanding budgeting. Plus, it was a good excuse to experiment with game logic in a web environment.
-
-### [Crypto Bot](https://github.com/kas021/Crypto-bot)
-
-Trading bot written in Python that attempts to automate crypto trades. Built it to learn about APIs and trading algorithms. The market's unpredictable, but the code itself taught me a lot about async operations and data handling.
-
-### [CMS Repository](https://github.com/kas021/CMS-REPO)
-
-Content management system built with TypeScript. Started this because most CMS platforms feel bloated or overcomplicated for what I needed. Wanted something clean and modular that I could customize without fighting against the framework. Still adding features, but it handles the basics well. Create, edit, publish, repeat.
+<div align="center">
+  <a href="https://github.com/kas021/Employee-NFC-Logging-Time-Sheet">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight" alt="Employee-NFC-Logging-Time-Sheet"/>
+  </a>
+  <a href="https://github.com/kas021/money-game">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight" alt="money-game"/>
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/kas021/Employee-NFC-Logging-Time-Sheet"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight" alt="Employee-NFC-Logging-Time-Sheet"/></a>
-  <a href="https://github.com/kas021/money-game"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight" alt="money-game"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kas021/Crypto-bot"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight" alt="Crypto-bot"/></a>
-  <a href="https://github.com/kas021/CMS-REPO"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight" alt="CMS-REPO"/></a>
+  <a href="https://github.com/kas021/Crypto-bot">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight" alt="Crypto-bot"/>
+  </a>
+  <a href="https://github.com/kas021/CMS-REPO">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight" alt="CMS-REPO"/>
+  </a>
 </p>
 
 ---
@@ -89,14 +81,6 @@ Content management system built with TypeScript. Started this because most CMS p
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/kas021/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
