@@ -6,13 +6,13 @@
 
 ## About Me
 
-Hey! I'm Khubaib Shaikh (kas021). Most of my time goes into building web apps with TypeScript and Python. Started with smaller projects but quickly got hooked on full-stack development. There's something satisfying about seeing both the frontend and backend come together, especially when everything clicks into place.
+Hey! I'm Khubaib Shaikh. I build full-stack web applications with TypeScript and Python. My journey started with small personal projects, but I quickly fell in love with the entire development process—from designing intuitive frontends to building robust backend systems.
 
-Right now I'm juggling a few TypeScript projects. Got a CMS system in the works, plus some management tools that I'm tinkering with. React and Next.js have been my go-to lately, though I keep finding myself diving deeper into Python automation whenever I get the chance. Built this NFC attendance system using a Raspberry Pi last year. Cards, readers, audio alerts, the whole system.
+Currently, I'm working on several TypeScript-based projects, including a CMS system and management tools. React and Next.js are my frontend frameworks of choice, while Python keeps me busy with automation projects and IoT experiments. One of my proudest builds is an NFC-based employee attendance system running on a Raspberry Pi—complete with card readers, Google Sheets integration, and audio alerts.
 
-I've pushed about 445 commits in the last year, give or take. Always down to collaborate if you're working on something interesting with TypeScript or Python. Hit me up if you want to talk about web dev, automation, or IoT stuff. Also made a crypto bot once.
+I'm always open to collaborating on interesting projects, especially those involving TypeScript, Python, web development, or IoT. Feel free to reach out if you want to discuss ideas or work together.
 
-**Want to know more about my work or projects? Visit my personal website: [khubaib.me](https://khubaib.me) (self-hosted on a Raspberry Pi).**
+**Want to know more about my work? Visit my personal website: [khubaib.me](https://khubaib.me/) (self-hosted on a Raspberry Pi).**
 
 ---
 
@@ -53,35 +53,27 @@ I've pushed about 445 commits in the last year, give or take. Always down to col
 ## Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kas021/Employee-NFC-Logging-Time-Sheet">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight" alt="Employee-NFC-Logging-Time-Sheet"/>
-  </a>
-  <a href="https://github.com/kas021/money-game">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight" alt="money-game"/>
-  </a>
-</div>
 
-<p align="center">
-  <a href="https://github.com/kas021/Crypto-bot">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight" alt="Crypto-bot"/>
-  </a>
-  <a href="https://github.com/kas021/CMS-REPO">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight" alt="CMS-REPO"/>
-  </a>
-</p>
+[![Employee-NFC-Logging-Time-Sheet](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Employee-NFC-Logging-Time-Sheet&theme=tokyonight&hide_border=true)](https://github.com/kas021/Employee-NFC-Logging-Time-Sheet)
+[![money-game](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=money-game&theme=tokyonight&hide_border=true)](https://github.com/kas021/money-game)
+
+[![Crypto-bot](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=Crypto-bot&theme=tokyonight&hide_border=true)](https://github.com/kas021/Crypto-bot)
+[![CMS-REPO](https://github-readme-stats.vercel.app/api/pin/?username=kas021&repo=CMS-REPO&theme=tokyonight&hide_border=true)](https://github.com/kas021/CMS-REPO)
+
+</div>
 
 ---
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kas021&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kas021&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kas021&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kas021&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -90,32 +82,34 @@ I've pushed about 445 commits in the last year, give or take. Always down to col
 > **Explore my 3D GitHub contribution skyline!**  
 > Visit [skyline.github.com](https://skyline.github.com/kas021) to see an interactive 3D visualization of my yearly contributions.
 
-<p align="center">
-  <a href="https://skyline.github.com/kas021">
-    <img src="https://img.shields.io/badge/View_My-GitHub_Skyline-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-  </a>
-</p>
+[![GitHub Skyline](https://skyline.github.com/kas021)](https://skyline.github.com/kas021)
 
 ---
 
 ## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kas021&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kas021&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
 ## Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kas021&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</p>
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kas021&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kas021&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=kas021&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ### Check out my pinned repositories below!
+
+</div>
