@@ -12,7 +12,7 @@ I build software that is useful, considered, and respectful of the person using 
 | --- | --- | --- |
 | <a href="https://synthetiq.uk/products" target="_blank" rel="noopener noreferrer">Synthetiq Player</a> | A personal media app designed around control, playback, and a calm experience. | Live on the App Store · around 30,000 active users |
 | <a href="https://synthetiq.uk/products" target="_blank" rel="noopener noreferrer">Synthetiq Books</a> | A focused iPhone and iPad reading library for PDF and EPUB publications you choose to import and connect. | Released and has 2000 Users |
-| <a href="https://synthetiq.uk/products" target="_blank" rel="noopener noreferrer">AROKI</a> | A private, on-device media-library and native playback app for approved personal collections. | In development |
+| <a href="https://synthetiq.uk/products" target="_blank" rel="noopener noreferrer">AROKI</a> | A private, on-device media-library and native playback app for approved personal collections. | Published and gained 300+ users in its first week  |
 
 ## Synthetiq Redact · Hackathon winner
 
